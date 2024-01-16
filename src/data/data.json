@@ -1,0 +1,2322 @@
+[
+    {
+        "id": 1,
+        "name": "Soul Edge / Blade",
+        "image": "soul-edge-blade",
+        "description": "Soul Edge (ソウルエッジ Souru Ejji) es la primera entrega de la serie de juegos de lucha Soul desarrollada y publicada por Namco. Se lanzó inicialmente en los salones recreativos en 1995. Unos meses después, Namco lanzó una versión corregida etiquetada como Soul Edge Ver. II, debido a las quejas de los jugadores que encontraron la dificultad bastante alta y al jefe final 'invencible'. Se introdujo a Hwang Seong-gyeong (inicialmente un cambio de paleta de Heishiro Mitsurugi para la versión coreana del juego) para los jugadores japoneses con una nueva lista de movimientos, Cervantes de León se convirtió en seleccionable, se implementaron Guard Impacts y Air Combos, y todos los personajes recibieron listas de movimientos mejoradas. Luego, el juego se trasladó a la Sony Playstation y se renombró como Soul Blade en Europa, América del Norte y Australia para evitar posibles complicaciones con Edge Games. Soul Edge ha sido en gran medida opacado por su secuela, Soulcalibur, que ha sido el nombre de la serie desde 1998.",
+        "albums": [
+            {
+                "id": 1,
+                "name": "Soul Edge / Blade OST: Super Battle Sound Attack Soul Edge",
+                "image": "super-battle-sound-attack-soul-edge",
+                "price": 100,
+                "stock": 10,
+                "description": "Super Battle Sound Attack Soul Edge presenta música de Soul Edge. Fue compuesta por el equipo de sonido de Namco y publicada por Pony Canyon. Su número de catálogo es PCCG-00365.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Opening Title 1",
+                        "duration": "00:17",
+                        "notes": "Arcade Demo Intro 1",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Opening Title 2",
+                        "duration": "00:28",
+                        "notes": "Arcade Demo Intro 2",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Epic Calling!",
+                        "duration": "01:16",
+                        "notes": "Character Select Screen",
+                        "stages": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "Into the Battle",
+                        "duration": "00:09",
+                        "notes": "New Challenger Appears!",
+                        "stages": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "The Wind and Cloud",
+                        "duration": "02:46",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Pirate Fortress",
+                                "characters": [
+                                    {
+                                        "name": "Mitsurugi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Future Dancin",
+                        "duration": "01:39",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Shrine of Confined Demons",
+                                "characters": [
+                                    {
+                                        "name": "Taki"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "Heavenly Engage",
+                        "duration": "03:12",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Eurydice Shrine: Arena",
+                                "characters": [
+                                    {
+                                        "name": "Sophitia"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Soul and Sword",
+                        "duration": "02:49",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Ostrheinsburg Castle: War",
+                                "characters": [
+                                    {
+                                        "name": "Siegfried"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "name": "Dragon's Call",
+                        "duration": "02:54",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Narrow Gorge",
+                                "characters": [
+                                    {
+                                        "name": "Li Long"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "The Gears of Madness",
+                        "duration": "02:48",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Money Pit: The Secret Treasury",
+                                "characters": [
+                                    {
+                                        "name": "Voldo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Horangi Arirang",
+                        "duration": "",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Desert Path",
+                                "characters": [
+                                    {
+                                        "name": "Hwang"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Khaduri",
+                        "duration": "02:10",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Old Temple",
+                                "characters": [
+                                    {
+                                        "name": "Seong Mi-na"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Recollect Continent",
+                        "duration": "03:05",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Unknown Land",
+                                "characters": [
+                                    {
+                                        "name": "Rock"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "Bravely Folk Song",
+                        "duration": "03:09",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Valencia Port",
+                                "characters": [
+                                    {
+                                        "name": "Cervantes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "World Atlas Collapsed",
+                        "duration": "02:41",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Valencia Port: Chaos",
+                                "characters": [
+                                    {
+                                        "name": "Inferno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "War Age",
+                        "duration": "00:51",
+                        "notes": "Mitsurugi and Hwang Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 17,
+                        "name": "The Deed is Done",
+                        "duration": "00:52",
+                        "notes": "Taki Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 18,
+                        "name": "Goddess in Triumph",
+                        "duration": "00:52",
+                        "notes": "Sophitia Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 19,
+                        "name": "The Carnage Has Begun ~ Into a Trance",
+                        "duration": "00:50",
+                        "notes": "Siegfried Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 20,
+                        "name": "The Last Bit of Hope ~ Dragon's Gasp",
+                        "duration": "00:52",
+                        "notes": "Li Long Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 21,
+                        "name": "And the Blind Shall See",
+                        "duration": "00:49",
+                        "notes": "Voldo Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 22,
+                        "name": "Sparrow's Return",
+                        "duration": "00:51",
+                        "notes": "Seong Mi-na Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 23,
+                        "name": "Sunrise Promise",
+                        "duration": "00:52",
+                        "notes": "Rock Edge Master Mode Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 24,
+                        "name": "Coming Soon",
+                        "duration": "00:28",
+                        "notes": "Edge Master Mode Introduction",
+                        "stages": []
+                    },
+                    {
+                        "id": 25,
+                        "name": "Courage",
+                        "duration": "01:42",
+                        "notes": "Name Entry",
+                        "stages": []
+                    },
+                    {
+                        "id": 26,
+                        "name": "Finale and End Credit",
+                        "duration": "01:54",
+                        "notes": "Credits",
+                        "stages": []
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Soul Edge / Blade OST: Soul Edge Original Soundtrack - Khan Super Session",
+                "image": "soul-edge-original-soundtrack-khan-super-session",
+                "price": 100,
+                "stock": 10,
+                "description": "Soul Edge Original Soundtrack - Khan Super Session es una banda sonora creada para Soul Edge. Tiene pistas que difieren de la original, pero que no obstante reflejan a cada personaje en la lista de juegos. Fue publicado por BMG Japan Entertainment y compuesto por Bentenmaru (KHAN) (pistas 2, 8, 10 y 16), Taku Iwasaki (pistas 9, 13 y 15), Masumi Ito (pistas 1, 3, 5, 7, 11 y 14), Yoshiyuki Ito (pistas 6 y 12) y Aki Hata (pista 4). Los arreglos fueron realizados por KHAN (pistas 2 y 16), Kazunori Miyake (pista 2), Himeko Yamamoto (pistas 8, 10 y 16), Masumi Ito (pistas 1, 3, 5, 7, 11 y 14), Taku Iwasaki (pistas 9, 13 y 15), Yoshiyuki Ito (pista 6) y Aki Hata (pistas 4 y 12). Su número de catálogo es BVCH-732.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Doubtful Judgement",
+                        "duration": "03:46",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Valencia Port: Chaos",
+                                "characters": [
+                                    {
+                                        "name": "Inferno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "The Edge of Soul",
+                        "duration": "04:22",
+                        "notes": "PlayStation Intro Movie",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "An Oath of the Sword",
+                        "duration": "01:33",
+                        "notes": "Character Select Screen / Edge Master Mode Map",
+                        "stages": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "P.N.K.N.",
+                        "duration": "03:45",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Coliseum",
+                                "characters": []
+                            },
+                            {
+                                "name": "Seong Dojo",
+                                "characters": [
+                                    {
+                                        "name": "Seong Han Myeong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Castaway into Darkness",
+                        "duration": "03:41",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Valencia Port",
+                                "characters": [
+                                    {
+                                        "name": "Cervantes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Hagakure",
+                        "duration": "03:57",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Pirate Fortress",
+                                "characters": [
+                                    {
+                                        "name": "Mitsurugi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "Eternal Memories",
+                        "duration": "01:31",
+                        "notes": "Name Entry / Edge Master Mode Chapter End",
+                        "stages": []
+                    },
+                    {
+                        "id": 8,
+                        "name": "A Haunting Wind",
+                        "duration": "03:57",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Shrine of Confined Demons",
+                                "characters": [
+                                    {
+                                        "name": "Taki"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "name": "Another Fanatic",
+                        "duration": "03:42",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Money Pit: The Secret Treasury",
+                                "characters": [
+                                    {
+                                        "name": "Voldo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "Moonlight Shadows",
+                        "duration": "04:25",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Narrow Gorge",
+                                "characters": [
+                                    {
+                                        "name": "Li Long"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "A Continental Gale",
+                        "duration": "03:44",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Unknown Land",
+                                "characters": [
+                                    {
+                                        "name": "Rock"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Tiny Amulet",
+                        "duration": "03:43",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Old Temple",
+                                "characters": [
+                                    {
+                                        "name": "Seong Mi-na"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Yellow Sands",
+                        "duration": "03:30",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Desert Path",
+                                "characters": [
+                                    {
+                                        "name": "Hwang"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "A Mediterranean Call",
+                        "duration": "03:44",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Eurydice Shrine: Arena",
+                                "characters": [
+                                    {
+                                        "name": "Sophitia"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Darkness of Fate",
+                        "duration": "04:06",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Ostrheinsburg Castle: War",
+                                "characters": [
+                                    {
+                                        "name": "Siegfried"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "Our Way Home",
+                        "duration": "04:33",
+                        "notes": "Credits",
+                        "stages": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "Soul Edge / Blade OST: Soul Edge ~ The Edge of Soul",
+                "image": "soul-edge-the-edge-of-soul",
+                "price": 100,
+                "stock": 10,
+                "description": "Contiene dos arreglos de dos canciones del disco 'Soul Edge Original Soundtrack - Khan Super Session' y una de ellas además en versión para karaoke.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "The Edge of Soul",
+                        "duration": "05:00",
+                        "notes": "Arranged (Soul Edge Original Soundtrack - Khan Super Session)",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Our Way Home",
+                        "duration": "04:28",
+                        "notes": "Soul Edge Original Soundtrack - Khan Super Session",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "The Edge of Soul",
+                        "duration": "04:58",
+                        "notes": "Karaoke (Soul Edge ~ The Edge of Soul)",
+                        "stages": []
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "Soul Edge / Blade OST: Gamerip Songs",
+                "image": "soul-blade-gamerip",
+                "price": 100,
+                "stock": 10,
+                "description": "Pistas especiales extraídas de los datos del juego.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Coming Soon",
+                        "duration": "00:50",
+                        "notes": "Extended (Super Battle Sound Attack Soul Edge)",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "A Travel Diary",
+                        "duration": "01:51",
+                        "notes": "Edge Master Mode Map and Book",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Pursuit of Soul",
+                        "duration": "00:20",
+                        "notes": "Mitsurugi Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "No Living No Mortality",
+                        "duration": "00:24",
+                        "notes": "Mitsurugi Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 5,
+                        "name": "A Haunting Wind",
+                        "duration": "02:30",
+                        "notes": "Short (Soul Edge Original Soundtrack - Khan Super Session)",
+                        "stages": [
+                            {
+                                "name": "Shrine of Confined Demons",
+                                "characters": [
+                                    {
+                                        "name": "Taki"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "To Win and Lose",
+                        "duration": "00:26",
+                        "notes": "Taki Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Suppress The Monster",
+                        "duration": "00:49",
+                        "notes": "Taki Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 8,
+                        "name": "Believe in Hephaestus",
+                        "duration": "01:15",
+                        "notes": "Sophitia Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 9,
+                        "name": "Return To Daily",
+                        "duration": "00:20",
+                        "notes": "Sophitia Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "Bathing",
+                        "duration": "00:30",
+                        "notes": "Sophitia Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 11,
+                        "name": "Provision",
+                        "duration": "00:14",
+                        "notes": "Siegfried Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 12,
+                        "name": "Metamorphosis",
+                        "duration": "00:14",
+                        "notes": "Siegfried Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 13,
+                        "name": "Memories of My Father",
+                        "duration": "00:47",
+                        "notes": "Siegfried Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 14,
+                        "name": "The Last Bit of Hope 1",
+                        "duration": "00:41",
+                        "notes": "Li Long Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 15,
+                        "name": "The Last Bit of Hope 2",
+                        "duration": "00:39",
+                        "notes": "Li Long Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 16,
+                        "name": "The Ritual of Madness 1",
+                        "duration": "01:00",
+                        "notes": "Voldo Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 17,
+                        "name": "The Ritual of Madness 2",
+                        "duration": "00:10",
+                        "notes": "Voldo Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 18,
+                        "name": "Awakening",
+                        "duration": "00:13",
+                        "notes": "Hwang Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 19,
+                        "name": "The Triumphant Return",
+                        "duration": "00:51",
+                        "notes": "Hwang Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 20,
+                        "name": "Free From The Sword 1",
+                        "duration": "00:39",
+                        "notes": "Seong Mi-na Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 21,
+                        "name": "Free From The Sword 2",
+                        "duration": "00:28",
+                        "notes": "Seong Mi-na Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 22,
+                        "name": "Answer By Letter",
+                        "duration": "00:50",
+                        "notes": "Seong Mi-na Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 23,
+                        "name": "Train Yourself Well",
+                        "duration": "00:26",
+                        "notes": "Seong Mi-na Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 24,
+                        "name": "Memories of Days Gone",
+                        "duration": "00:20",
+                        "notes": "Rock Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 25,
+                        "name": "A Tough Decision",
+                        "duration": "00:33",
+                        "notes": "Rock Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 26,
+                        "name": "Frightful Sight",
+                        "duration": "00:42",
+                        "notes": "Cervantes Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 27,
+                        "name": "Aftermath",
+                        "duration": "01:18",
+                        "notes": "Cervantes Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 28,
+                        "name": "Doubtful Judgement",
+                        "duration": "02:39",
+                        "notes": "Short (Soul Edge Original Soundtrack - Khan Super Session)",
+                        "stages": [
+                            {
+                                "name": "Valencia Port: Chaos",
+                                "characters": [
+                                    {
+                                        "name": "Inferno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 29,
+                        "name": "P.N.K.N. 1",
+                        "duration": "02:43",
+                        "notes": "Soul Edge Original Soundtrack - Khan Super Session",
+                        "stages": [
+                            {
+                                "name": "The Coliseum",
+                                "characters": []
+                            },
+                            {
+                                "name": "Seong Dojo",
+                                "characters": [
+                                    {
+                                        "name": "Seong Han Myeong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 30,
+                        "name": "P.N.K.N. 2",
+                        "duration": "02:42",
+                        "notes": "Soul Edge Original Soundtrack - Khan Super Session",
+                        "stages": [
+                            {
+                                "name": "The Coliseum",
+                                "characters": []
+                            },
+                            {
+                                "name": "Seong Dojo",
+                                "characters": [
+                                    {
+                                        "name": "Seong Han Myeong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 31,
+                        "name": "A Desperate Struggle",
+                        "duration": "02:44",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Coliseum",
+                                "characters": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 32,
+                        "name": "The Last Days",
+                        "duration": "00:39",
+                        "notes": "Inferno Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 33,
+                        "name": "The Last Days",
+                        "duration": "00:06",
+                        "notes": "Short (Inferno Ending)",
+                        "stages": []
+                    },
+                    {
+                        "id": 34,
+                        "name": "The Last Days",
+                        "duration": "00:08",
+                        "notes": "Metamorphose to Inferno",
+                        "stages": []
+                    },
+                    {
+                        "id": 35,
+                        "name": "Asian Dawn",
+                        "duration": "02:12",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Seong Dojo",
+                                "characters": [
+                                    {
+                                        "name": "Seong Han Myeong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 36,
+                        "name": "A Close Game Lost",
+                        "duration": "00:07",
+                        "notes": "Game Over",
+                        "stages": []
+                    },
+                    {
+                        "id": 37,
+                        "name": "A Gift of Victory",
+                        "duration": "00:20",
+                        "notes": null,
+                        "stages": []
+                    },
+                    {
+                        "id": 38,
+                        "name": "At The End of One's Journey",
+                        "duration": "00:35",
+                        "notes": null,
+                        "stages": []
+                    },
+                    {
+                        "id": 39,
+                        "name": "Epic Calling!",
+                        "duration": "01:27",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": []
+                    },
+                    {
+                        "id": 40,
+                        "name": "The Wind and Cloud",
+                        "duration": "02:40",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "The Pirate Fortress",
+                                "characters": [
+                                    {
+                                        "name": "Mitsurugi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 41,
+                        "name": "Future Dancin",
+                        "duration": "02:05",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Shrine of Confined Demons",
+                                "characters": [
+                                    {
+                                        "name": "Taki"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 42,
+                        "name": "Heavenly Engage",
+                        "duration": "02:42",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Eurydice Shrine: Arena",
+                                "characters": [
+                                    {
+                                        "name": "Sophitia"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 43,
+                        "name": "Soul and Sword",
+                        "duration": "02:35",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Ostrheinsburg Castle: War",
+                                "characters": [
+                                    {
+                                        "name": "Siegfried"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 44,
+                        "name": "Dragon's Call",
+                        "duration": "02:39",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "The Narrow Gorge",
+                                "characters": [
+                                    {
+                                        "name": "Li Long"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 45,
+                        "name": "The Gears of Madness",
+                        "duration": "02:27",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Money Pit: The Secret Treasury",
+                                "characters": [
+                                    {
+                                        "name": "Voldo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 46,
+                        "name": "Horangi Arirang",
+                        "duration": "02:35",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Desert Path",
+                                "characters": [
+                                    {
+                                        "name": "Hwang"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47,
+                        "name": "Khaduri",
+                        "duration": "02:33",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "The Old Temple",
+                                "characters": [
+                                    {
+                                        "name": "Seong Mi-na"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 48,
+                        "name": "Recollect Continent",
+                        "duration": "02:49",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Unknown Land",
+                                "characters": [
+                                    {
+                                        "name": "Rock"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 49,
+                        "name": "Bravely Folk Song",
+                        "duration": "02:52",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Valencia Port",
+                                "characters": [
+                                    {
+                                        "name": "Cervantes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 50,
+                        "name": "World Atlas Collapsed",
+                        "duration": "02:18",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": [
+                            {
+                                "name": "Valencia Port: Chaos",
+                                "characters": [
+                                    {
+                                        "name": "Inferno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 51,
+                        "name": "Asian Dawn",
+                        "duration": "02:17",
+                        "notes": "Arranged (Gamerip Songs)",
+                        "stages": [
+                            {
+                                "name": "Seong Dojo",
+                                "characters": [
+                                    {
+                                        "name": "Seong Han Myeong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 52,
+                        "name": "A Desperate Struggle",
+                        "duration": "02:52",
+                        "notes": "Arranged (Gamerip Songs)",
+                        "stages": [
+                            {
+                                "name": "The Coliseum",
+                                "characters": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 53,
+                        "name": "Courage",
+                        "duration": "01:30",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": []
+                    },
+                    {
+                        "id": 54,
+                        "name": "Finale and End Credit",
+                        "duration": "01:54",
+                        "notes": "Arranged (Super Battle Sound Attack Soul Edge)",
+                        "stages": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Soulcalibur",
+        "image": "soulcalibur",
+        "description": "Soulcalibur (ソウルキャリバー Sourukyaribā) es el segundo juego de la serie Soul de juegos de lucha desarrollados y producidos por Namco. Soulcalibur fue adaptado y lanzado para la Sega Dreamcast en 1999 con gráficos mejorados y nuevas características, convirtiéndose en uno de los títulos más vendidos de Dreamcast de todos los tiempos. La adaptación para Sega Dreamcast a menudo se cita como uno de los mejores juegos de lucha de todos los tiempos e incluso uno de los mejores juegos de todos los géneros; está clasificado como el quinto mejor juego de todos los tiempos por el sitio web agregador de reseñas Game Rankings. Tras el primer juego Soul Edge en 1995, la serie Soul recibió una importante renovación y fue renombrada Soulcalibur en 1998. Por lo tanto, Soulcalibur también puede referirse a la serie compuesta por Soulcalibur y sus secuelas posteriores.",
+        "albums": [
+            {
+                "id": 5,
+                "name": "Soulcalibur OST: Disc 1",
+                "image": "soulcalibur-disc-1",
+                "price": 100,
+                "stock": 10,
+                "description": "Primer disco de la Banda Sonora Original de Soulcalibur. Fue compuesta por Junichi Nakatsuru, Yohihito Yano, Akitaka Tohyama, Takanori Otsuka y Hideki Tobeta. Su número de catálogo es APCG-9006.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Light & Darkness",
+                        "duration": "02:01",
+                        "notes": "Opening",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "The Stage of History",
+                        "duration": "01:06",
+                        "notes": "Character Select Screen",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "The New Legend",
+                        "duration": "02:37",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Proving Grounds (The Pure Training Spot)",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    },
+                                    {
+                                        "name": "Edge Master"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Bloom and Harvest",
+                        "duration": "02:33",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Emperor's Garden (The Chinese Temple)",
+                                "characters": [
+                                    {
+                                        "name": "Xianghua"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Sail Over the Storm",
+                        "duration": "02:46",
+                        "notes": "Across Stormy Seas",
+                        "stages": [
+                            {
+                                "name": "Harbor of Souls (Indian Port)",
+                                "characters": [
+                                    {
+                                        "name": "Maxi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Duelists",
+                        "duration": "02:48",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Takamatsu Castle (The Inundated Castle)",
+                                "characters": [
+                                    {
+                                        "name": "Mitsurugi"
+                                    },
+                                    {
+                                        "name": "Arthur"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "The Cursed Image",
+                        "duration": "02:52",
+                        "notes": "The Cursed Soul",
+                        "stages": [
+                            {
+                                "name": "Hoko Temple (Hoko-ji Temple)",
+                                "characters": [
+                                    {
+                                        "name": "Taki"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Sweet Illusion",
+                        "duration": "02:38",
+                        "notes": "Remembrance",
+                        "stages": [
+                            {
+                                "name": "Money Pit",
+                                "characters": [
+                                    {
+                                        "name": "Voldo"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "name": "Wings of Faith",
+                        "duration": "02:37",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Shrine of Eurydice (Corridor to the Sanctuary)",
+                                "characters": [
+                                    {
+                                        "name": "Sophitia"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "In the Name of Father",
+                        "duration": "02:27",
+                        "notes": "In Father's Name",
+                        "stages": [
+                            {
+                                "name": "Ostrheinsburg Castle",
+                                "characters": [
+                                    {
+                                        "name": "Siegfried"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Bred from the Gap",
+                        "duration": "02:40",
+                        "notes": "Born from Chaos",
+                        "stages": [
+                            {
+                                "name": "Palgaea Shrine",
+                                "characters": [
+                                    {
+                                        "name": "Astaroth"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Unblessed Soul",
+                        "duration": "02:34",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Valentine Mansion (The Valentine Mansion)",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Beyond the Horizon",
+                        "duration": "02:32",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Silk Road Ruin (Remain in the Desert)",
+                                "characters": [
+                                    {
+                                        "name": "Hwang"
+                                    },
+                                    {
+                                        "name": "Seong Mi-na"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "Chasing Downstream",
+                        "duration": "02:44",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Water Labyrinth (Water Vein)",
+                                "characters": [
+                                    {
+                                        "name": "Yoshimitsu"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Worth Dying For",
+                        "duration": "02:29",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "City of Water (Venice)",
+                                "characters": [
+                                    {
+                                        "name": "Siegfried"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "The Gathering: Fatal Gravity",
+                        "duration": "02:50",
+                        "notes": "Destiny Beckons",
+                        "stages": [
+                            {
+                                "name": "The Colosseum",
+                                "characters": [
+                                    {
+                                        "name": "Rock"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "name": "Eye to Eye, Blade to Blade",
+                        "duration": "01:31",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Maze of the Dead (Turkish Labyrinth)",
+                                "characters": [
+                                    {
+                                        "name": "Seong Mi-na"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "Leaving the World Behind",
+                        "duration": "02:51",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "The Adrian and The Fortress",
+                                "characters": [
+                                    {
+                                        "name": "Cervantes"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Immortal Flame",
+                        "duration": "02:44",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Chaos (Gap of the World)",
+                                "characters": [
+                                    {
+                                        "name": "Inferno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "name": "Everlasting Quest",
+                        "duration": "01:33",
+                        "notes": "Mission Mode Theme",
+                        "stages": []
+                    },
+                    {
+                        "id": 21,
+                        "name": "Going to Where the Wind Blows",
+                        "duration": "01:50",
+                        "notes": "Slideshow",
+                        "stages": []
+                    },
+                    {
+                        "id": 22,
+                        "name": "Kaleidoscope",
+                        "duration": "01:22",
+                        "notes": "Intro Edit Mode",
+                        "stages": []
+                    },
+                    {
+                        "id": 23,
+                        "name": "Going to Where the Wind Blows: Reprise",
+                        "duration": "",
+                        "notes": "Art Gallery",
+                        "stages": []
+                    },
+                    {
+                        "id": 24,
+                        "name": "The Seal Was Broken",
+                        "duration": "00:07",
+                        "notes": "Mission Mode Cleared",
+                        "stages": []
+                    },
+                    {
+                        "id": 25,
+                        "name": "Prepare to Unleash Yourself",
+                        "duration": "00:08",
+                        "notes": "Here Comes A New Challenger",
+                        "stages": []
+                    },
+                    {
+                        "id": 26,
+                        "name": "Prepare to Defend Yourself",
+                        "duration": "00:06",
+                        "notes": "Destined Battle",
+                        "stages": []
+                    },
+                    {
+                        "id": 27,
+                        "name": "Apocalypse",
+                        "duration": "00:42",
+                        "notes": "Cervantes, Inferno, Voldo and Astaroth Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 28,
+                        "name": "Sacrifice",
+                        "duration": "00:41",
+                        "notes": "Maxi Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 29,
+                        "name": "Forever Onward",
+                        "duration": "00:42",
+                        "notes": "Hwang, Yoshimitsu, Lizardman, Rock, Seong Mi-na, Edge Master, Mitsurugi, Kilik, Xianghua and Taki Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 30,
+                        "name": "Into the Sunlight",
+                        "duration": "00:44",
+                        "notes": "Sophitia Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 31,
+                        "name": "No Remorse, No Pain",
+                        "duration": "00:42",
+                        "notes": "Siegfried, Ivy and Nightmare Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 32,
+                        "name": "The Legend Will Never Die",
+                        "duration": "01:41",
+                        "notes": "Name Entry",
+                        "stages": []
+                    },
+                    {
+                        "id": 33,
+                        "name": "Recollection: A Tribute to Those Who Shed Red",
+                        "duration": "02:10",
+                        "notes": "Staff Roll",
+                        "stages": []
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "Soulcalibur OST: Disc 2",
+                "image": "soulcalibur-disc-2",
+                "price": 100,
+                "stock": 10,
+                "description": "Segundo disco de la Banda Sonora Original de Soulcalibur. Fue compuesta por Junichi Nakatsuru, Yohihito Yano, Akitaka Tohyama, Takanori Otsuka y Hideki Tobeta. Su número de catálogo es APCG-9006.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Under the Star of Destiny (Arcade Version)",
+                        "duration": "00:49",
+                        "notes": "Arcade Version Opening",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Recollection: A Tribute to Those Who Shed Red (Arcade Version)",
+                        "duration": "01:57",
+                        "notes": "Arcade Version Staff Roll",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Light & Darkness (Soul Mix)",
+                        "duration": "04:50",
+                        "notes": "Arranged (Soulcalibur Original Soundtrack: Disc 1)",
+                        "stages": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "Going to Where the Wind Blows (Piano Mix)",
+                        "duration": "03:13",
+                        "notes": "Arranged (Soulcalibur Original Soundtrack: Disc 1)",
+                        "stages": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Soulcalibur II",
+        "image": "soulcalibur-ii",
+        "description": "Soulcalibur II (ソウルキャリバーII Souru Kyaribā Tsū) es un juego de lucha desarrollado y publicado por Namco y la tercera entrega de la serie Soul. Soul Calibur es el nombre de la espada sagrada, creada para luchar contra la maléfica espada Soul Edge, en torno a la cual gira la historia del juego. En comparación con Soulcalibur, Soulcalibur II cuenta con gráficos mejorados e introduce nuevos personajes, escenarios y música. También es el primer juego de la serie que incluye personajes invitados de otras series. Es el comienzo de la trilogía de 1590 A.D.",
+        "albums": [
+            {
+                "id": 7,
+                "name": "Soulcalibur II OST: Disc 1",
+                "image": "soulcalibur-ii-disc-1",
+                "price": 100,
+                "stock": 10,
+                "description": "Primer disco de la banda sonora de Soulcalibur II. Fue compuesta por Junichi Nakatsuru, Yoshihito Yano, Asuka Sakai, Rio Hamamoto, Ryuichi Takada y Junichi Takagi. Su número de catálogo es SSCX-10086~7.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Under the Star of Destiny",
+                        "duration": "02:05",
+                        "notes": "Opening",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "History Unfolds",
+                        "duration": "01:07",
+                        "notes": "Character Select Screen",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Unwavering Resolve",
+                        "duration": "04:16",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Eurydice Shrine Gallery",
+                                "characters": [
+                                    {
+                                        "name": "Sophitia"
+                                    },
+                                    {
+                                        "name": "Cassandra"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "Guided by Wind",
+                        "duration": "03:56",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Village of the Wind",
+                                "characters": [
+                                    {
+                                        "name": "Talim"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Evil Reborn",
+                        "duration": "03:36",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Palgaea Shrine: Lowest Level",
+                                "characters": [
+                                    {
+                                        "name": "Astaroth"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Raise thy Sword",
+                        "duration": "03:29",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Ostrheinsburg Chapel",
+                                "characters": [
+                                    {
+                                        "name": "Nightmare"
+                                    },
+                                    {
+                                        "name": "Heihachi"
+                                    },
+                                    {
+                                        "name": "Spawn"
+                                    },
+                                    {
+                                        "name": "Link"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 7,
+                        "name": "Brave Sword, Braver Soul",
+                        "duration": "03:41",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Kaminoi Castle: Sakura-Dai Gate",
+                                "characters": [
+                                    {
+                                        "name": "Taki"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 8,
+                        "name": "Chasing Death",
+                        "duration": "03:37",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Egyptian Ruins",
+                                "characters": [
+                                    {
+                                        "name": "Charade"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 9,
+                        "name": "Destiny Awaits No One",
+                        "duration": "03:43",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Imperial Capital Ayutthaya",
+                                "characters": [
+                                    {
+                                        "name": "Yun-seong"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 10,
+                        "name": "No Turning Back",
+                        "duration": "03:24",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "South France Mansion: Library",
+                                "characters": [
+                                    {
+                                        "name": "Raphael"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Eternal Struggle",
+                        "duration": "03:33",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Pirate's Alcove",
+                                "characters": [
+                                    {
+                                        "name": "Cervantes"
+                                    },
+                                    {
+                                        "name": "Maxi"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Hubris",
+                        "duration": "04:06",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Xiwei Siege Ruins",
+                                "characters": [
+                                    {
+                                        "name": "Mitsurugi"
+                                    },
+                                    {
+                                        "name": "Xianghua"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Confrontation",
+                        "duration": "03:54",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Lakeside Coliseum",
+                                "characters": [
+                                    {
+                                        "name": "Necrid"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "Sword of the Patriot",
+                        "duration": "04:10",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Hwangseo Palace: Phoenix Court",
+                                "characters": [
+                                    {
+                                        "name": "Seong Mi-na"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Ordinary Pain",
+                        "duration": "03:38",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Money Pit: Top Tier",
+                                "characters": [
+                                    {
+                                        "name": "Voldo"
+                                    },
+                                    {
+                                        "name": "Yoshimitsu"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "If There Were Any Other Way",
+                        "duration": "03:25",
+                        "notes": "Destined Battle: Sophitia, Cervantes, Kilik, Xianghua, Ivy, Talim, Yun-seong",
+                        "stages": []
+                    },
+                    {
+                        "id": 17,
+                        "name": "Nothing to Lose",
+                        "duration": "03:28",
+                        "notes": "Destined Battle: Mitsurugi, Taki, Nightmare, Maxi, Astaroth, Raphael, Heihachi, Spawn",
+                        "stages": []
+                    },
+                    {
+                        "id": 18,
+                        "name": "Hellfire",
+                        "duration": "03:58",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Tartaros",
+                                "characters": [
+                                    {
+                                        "name": "Inferno"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "The Battle Ends",
+                        "duration": "00:34",
+                        "notes": "Talim, Sophitia, Maxi, Link and Cassandra Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 20,
+                        "name": "Slave of Desire",
+                        "duration": "00:34",
+                        "notes": "Raphael, Cervantes and Astaroth Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 21,
+                        "name": "Burning Soul",
+                        "duration": "00:34",
+                        "notes": "Mitsurugi, Yun-seong, Yoshimitsu, Xianghua, Seong Mi-na and Heihachi Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 22,
+                        "name": "The Journey Continues",
+                        "duration": "00:34",
+                        "notes": "Voldo, Taki, Spawn, Nightmare, Necrid, Kilik, Ivy and Charade Endings",
+                        "stages": []
+                    },
+                    {
+                        "id": 23,
+                        "name": "Path of Destiny",
+                        "duration": "03:06",
+                        "notes": "Arcade Mode: Staff Roll",
+                        "stages": []
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "name": "Soulcalibur II OST: Disc 2",
+                "image": "soulcalibur-ii-disc-2",
+                "price": 100,
+                "stock": 10,
+                "description": "Segundo disco de la banda sonora de Soulcalibur II. Fue compuesta por Junichi Nakatsuru, Yoshihito Yano, Asuka Sakai, Rio Hamamoto, Ryuichi Takada y Junichi Takagi. Su número de catálogo es SSCX-10086~7.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Tales of Souls and Swords",
+                        "duration": "01:45",
+                        "notes": "Weapon Master: Opening",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Quest for Glory",
+                        "duration": "03:18",
+                        "notes": "Weapon Master: World Map",
+                        "stages": []
+                    },
+                    {
+                        "id": 3,
+                        "name": "Windshadow",
+                        "duration": "02:42",
+                        "notes": "Weapon Master: Extra Chapter Map",
+                        "stages": []
+                    },
+                    {
+                        "id": 4,
+                        "name": "Maze of the Blade",
+                        "duration": "06:46",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Labyrinth of Moonlight",
+                        "duration": "05:35",
+                        "notes": null,
+                        "stages": [
+                            {
+                                "name": "Labyrinth",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Whispers of the Sword",
+                        "duration": "01:03",
+                        "notes": "Weapon Master: Ending",
+                        "stages": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "Path of Destiny",
+                        "duration": "05:24",
+                        "notes": "Weapon Master: Staff Roll",
+                        "stages": []
+                    },
+                    {
+                        "id": 8,
+                        "name": "Into the Whirlwind",
+                        "duration": "02:50",
+                        "notes": "Weapon Master: Sub Chapter 2 Map",
+                        "stages": []
+                    },
+                    {
+                        "id": 9,
+                        "name": "Healing Winds",
+                        "duration": "02:34",
+                        "notes": "Art Gallery",
+                        "stages": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "The Noble Blade",
+                        "duration": "00:53",
+                        "notes": "Exhibition: Raphael",
+                        "stages": []
+                    },
+                    {
+                        "id": 11,
+                        "name": "Healing Winds (Reprise)",
+                        "duration": "03:12",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": []
+                    },
+                    {
+                        "id": 12,
+                        "name": "Hubris (Reprise)",
+                        "duration": "03:19",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": []
+                    }
+                ]
+            },
+            {
+                "id": 9,
+                "name": "Soulcalibur II OST: Gamerip Songs",
+                "image": "soulcalibur-ii-gamerip-songs",
+                "price": 100,
+                "stock": 10,
+                "description": "Pistas especiales extraídas de los datos del juego.",
+                "songs": [
+                    {
+                        "id": 1,
+                        "name": "Under the Star of Destiny",
+                        "duration": "02:25",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": []
+                    },
+                    {
+                        "id": 2,
+                        "name": "Unwavering Resolve",
+                        "duration": "03:44",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": [
+                            {
+                                "name": "Eurydice Shrine Gallery",
+                                "characters": [
+                                    {
+                                        "name": "Sophitia"
+                                    },
+                                    {
+                                        "name": "Cassandra"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 3,
+                        "name": "Guided by Wind",
+                        "duration": "03:38",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": [
+                            {
+                                "name": "Village of the Wind",
+                                "characters": [
+                                    {
+                                        "name": "Talim"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "No Turning Back",
+                        "duration": "02:32",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": [
+                            {
+                                "name": "South France Mansion: Library",
+                                "characters": [
+                                    {
+                                        "name": "Raphael"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "Hubris",
+                        "duration": "04:08",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": [
+                            {
+                                "name": "Xiwei Siege Ruins",
+                                "characters": [
+                                    {
+                                        "name": "Mitsurugi"
+                                    },
+                                    {
+                                        "name": "Xianghua"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "If There Were Any Other Way",
+                        "duration": "02:36",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": []
+                    },
+                    {
+                        "id": 7,
+                        "name": "The Journey Continues",
+                        "duration": "01:05",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 1)",
+                        "stages": []
+                    },
+                    {
+                        "id": 8,
+                        "name": "The Journey Continues",
+                        "duration": "01:45",
+                        "notes": "Extended (Gamerip Songs)",
+                        "stages": []
+                    },
+                    {
+                        "id": 9,
+                        "name": "Windshadow",
+                        "duration": "05:42",
+                        "notes": "Extended (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": []
+                    },
+                    {
+                        "id": 10,
+                        "name": "Maze of the Blade 1",
+                        "duration": "00:55",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 11,
+                        "name": "Maze of the Blade 2",
+                        "duration": "01:30",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 12,
+                        "name": "Maze of the Blade 3",
+                        "duration": "01:27",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 13,
+                        "name": "Maze of the Blade 4",
+                        "duration": "01:23",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "name": "Maze of the Blade 5",
+                        "duration": "01:23",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "name": "Maze of the Blade 6",
+                        "duration": "01:31",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Egyptian Crypt",
+                                "characters": [
+                                    {
+                                        "name": "Ivy"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 16,
+                        "name": "Labyrinth of Moonlight 1",
+                        "duration": "01:06",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Labyrinth",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "name": "Labyrinth of Moonlight 2",
+                        "duration": "01:34",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Labyrinth",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "name": "Labyrinth of Moonlight 3",
+                        "duration": "01:27",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Labyrinth",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "name": "Labyrinth of Moonlight 4",
+                        "duration": "01:20",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Labyrinth",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "name": "Labyrinth of Moonlight 5",
+                        "duration": "01:07",
+                        "notes": "Fragment (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": [
+                            {
+                                "name": "Labyrinth",
+                                "characters": [
+                                    {
+                                        "name": "Kilik"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "name": "Healing Winds",
+                        "duration": "02:32",
+                        "notes": "Arranged (Soulcalibur II Original Soundtrack: Disc 2)",
+                        "stages": []
+                    },
+                    {
+                        "id": 22,
+                        "name": "Hyrule Field",
+                        "duration": "03:23",
+                        "notes": "When Link is present (Gamecube)",
+                        "stages": [
+                            {
+                                "name": "Eurydice Shrine Gallery",
+                                "characters": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
